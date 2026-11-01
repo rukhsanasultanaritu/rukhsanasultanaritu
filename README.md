@@ -49,22 +49,12 @@ I enjoy analyzing requirements, designing test cases, identifying defects, and i
 
 ---
 
-### 📂 Featured Projects
-
-- **Employee REST API Testing:** API testing using Postman with positive and negative test scenarios.
-- **API Automation with Newman:** Automated API test execution with HTML reporting.
-- **Database Testing:** SQL queries and database validation using MariaDB and DBeaver.
-- **Odoo Purchase Module Testing:** Functional testing, test case design, and defect reporting.
-
----
-
 ### 🎯 Career Goals
 
 - Strengthen my expertise in Software Quality Assurance.
 - Improve automation testing skills.
 - Explore advanced API and performance testing.
 - Contribute to real-world software quality improvement projects.
-
 ---
 
 ### 🤝 Connect With Me
