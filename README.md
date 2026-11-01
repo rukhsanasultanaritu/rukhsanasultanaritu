@@ -1,5 +1,5 @@
 
-# Hi, I'm Rukhsana Sultana Ritu! 👋
+# Hi, I'm Rukhsana Sultana Ritu👋
 
 ### 💻 Software QA Engineer | Manual Testing | API Testing | Test Automation
 
@@ -14,6 +14,19 @@ I enjoy analyzing requirements, designing test cases, identifying defects, and i
 ---
 
 ### 🚀 Skills & Expertise
+### 🚀 Skills & Expertise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Testing-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Testing-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Testing-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance%20Testing-C0392B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation%20Testing-27AE60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Test%20Case%20Design-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Tracking-E74C3C?style=for-the-badge" />
+</p>
 
 - Manual Testing
 - API Testing
