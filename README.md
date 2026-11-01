@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/Mobile%20Testing-3498DB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Performance%20Testing-C0392B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20Testing-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Test%20Case%20Design-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bug%20Tracking-E74C3C?style=for-the-badge" />
 </p>
 
 ### 🛠️ Tools & Technologies
@@ -45,11 +43,6 @@
 #### Programming & Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql" />
-</p>
-
-#### Other Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ### 🎯 Career Goals
