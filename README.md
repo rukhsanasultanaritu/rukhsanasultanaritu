@@ -44,27 +44,6 @@ I enjoy analyzing requirements, designing test cases, identifying defects, and i
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-**Testing Tools:**
-- Postman & Newman
-- Selenium WebDriver
-- Apache JMeter
-- Jira
-- DBeaver
-
-**Programming & Database:**
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-**Other Skills:**
-- Git & GitHub
-- API Automation
-- Agile Methodology
-
----
-
 ### 🎯 Career Goals
 
 - Strengthen my expertise in Software Quality Assurance.
