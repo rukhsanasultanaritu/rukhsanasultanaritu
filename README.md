@@ -26,7 +26,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Testing-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Testing-8E44AD?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Database%20Testing-8E44AD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile%20Testing-3498DB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Performance%20Testing-C0392B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20Testing-27AE60?style=for-the-badge" />
@@ -38,31 +38,18 @@
 
 #### Testing Tools
 
+### 🚀 Skills & Expertise
+
 <p align="left">
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
-    <br/>Postman
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.selenium.dev/">
-    <img src="https://skillicons.dev/icons?i=selenium" width="45" height="45" alt="Selenium"/>
-    <br/>Selenium
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://jmeter.apache.org/">
-    <img src="https://skillicons.dev/icons?i=jmeter" width="45" height="45" alt="JMeter"/>
-    <br/>JMeter
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.atlassian.com/software/jira">
-    <img src="https://skillicons.dev/icons?i=jira" width="45" height="45" alt="Jira"/>
-    <br/>Jira
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dbeaver.io/">
-    <img src="https://cdn.simpleicons.org/dbeaver/382923" width="45" height="45" alt="DBeaver"/>
-    <br/>DBeaver
-  </a>
+  <img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Testing-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Testing-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Testing-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance%20Testing-C0392B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation%20Testing-27AE60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Test%20Case%20Design-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Reporting- E74C3C?style=for-the-badge" />
 </p>
 
 #### Programming & Database
