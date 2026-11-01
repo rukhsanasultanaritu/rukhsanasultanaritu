@@ -1,15 +1,23 @@
 
 # Hi, I'm Rukhsana Sultana Ritu👋
 
-### 💻 Software QA Engineer | Manual Testing | API Testing | Test Automation
+### Software QA Engineer | Manual Testing | API Testing | Test Automation
+
+## 👩‍💻 About Me
 
 🎓 Computer Science & Engineering Graduate from International Islamic University Chittagong (IIUC).
 
-I am passionate about Software Quality Assurance (SQA) and dedicated to ensuring the quality, reliability, functionality, and performance of software applications.
+🔍 Passionate about Software Quality Assurance (SQA) and software quality improvement.
 
-I have hands-on experience in Manual Testing, API Testing, Database Testing, Mobile Application Testing, Performance Testing, and Automation Testing.
+🧪 Hands-on experience in Manual Testing, API Testing, Database Testing, Web & Mobile Application Testing, and Performance Testing.
 
-I enjoy analyzing requirements, designing test cases, identifying defects, and improving software quality through effective testing practices.
+🤖 Interested in Test Automation using Selenium with Java.
+
+📝 Skilled in analyzing requirements, designing test cases, executing tests, and reporting defects.
+
+🚀 Focused on improving software reliability, functionality, and performance.
+
+🤝 Always eager to learn new technologies, collaborate with professionals, and contribute to real-world projects.
 
 ---
 
