@@ -18,7 +18,7 @@
 🤝 Always eager to learn new technologies, collaborate with professionals, and contribute to real-world projects.
 
 ---
-### 🧪 Software Testing
+### 🚀 Skills & Expertise
 
 <p align="left">
   <img src="https://img.shields.io/badge/MANUAL%20TESTING-FF5733?style=for-the-badge&logo=checkmarx&logoColor=white" />
@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br/><br/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 ### 🌐 Web Development
@@ -75,10 +74,6 @@
 </p>
 
 ---
-
-### 🛠️ Tools & Technologies
-
-
 
 ### 🎯 Career Goals
 
