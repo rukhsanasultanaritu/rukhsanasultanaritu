@@ -67,24 +67,12 @@
 
 ---
 
-### 🎯 Career Goals
-
-- Strengthen my expertise in Software Quality Assurance.
-- Improve automation testing skills.
-- Explore advanced API and performance testing.
-- Contribute to real-world software quality improvement projects.
----
-### 🤝 Connect With Me
-
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sultana-ritu/)
-- 🐙 GitHub: [Explore my repositories](https://github.com/)
-
  ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:sultanaritu673@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:sultanaritu673@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/sultana-ritu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
