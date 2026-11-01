@@ -19,6 +19,7 @@
 
 ---
 ### 🚀 Skills & Expertise
+Software Testing
 
 <p align="left">
   <img src="https://img.shields.io/badge/MANUAL%20TESTING-FF5733?style=for-the-badge&logo=checkmarx&logoColor=white" />
