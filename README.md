@@ -10,17 +10,13 @@
 
 ## About Me
 
-🎓 Computer Science & Engineering Graduate from International Islamic University Chittagong (IIUC).
-
-🔍 Passionate about Software Quality Assurance (SQA) and software quality improvement.
-
-🧪 Hands-on experience in Manual Testing, API Testing, Database Testing, Web & Mobile Application Testing, and Performance Testing.
-
-📝 Skilled in analyzing requirements, designing test cases, executing tests, and reporting defects.
-
-🚀 Focused on improving software reliability, functionality, and performance.
-
-🤝 Always eager to learn new technologies, collaborate with professionals, and contribute to real-world projects.
+- 🎓 CSE Graduate from International Islamic University Chittagong (IIUC).
+- 📍 Based in Chattogram, Bangladesh.
+- 🔍 Passionate about Software Quality Assurance (SQA).
+- 🧪 Experienced in Manual, API, Database Testing.
+- 🤖 Interested in Test Automation using Selenium with Java.
+- 🚀 Always eager to learn and improve software quality.
+- 🤝 Open to Software QA Engineer opportunities and collaboration.
 
 ---
 ### 🚀 Skills & Expertise
