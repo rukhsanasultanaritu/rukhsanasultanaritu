@@ -3,7 +3,7 @@
 
 ### Software QA Engineer | Manual Testing | API Testing | Test Automation
 
-## 👩‍💻 About Me
+## About Me
 
 🎓 Computer Science & Engineering Graduate from International Islamic University Chittagong (IIUC).
 
