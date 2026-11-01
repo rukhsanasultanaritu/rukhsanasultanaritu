@@ -14,7 +14,6 @@ I enjoy analyzing requirements, designing test cases, identifying defects, and i
 ---
 
 ### 🚀 Skills & Expertise
-### 🚀 Skills & Expertise
 
 <p align="left">
   <img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge" />
@@ -28,6 +27,22 @@ I enjoy analyzing requirements, designing test cases, identifying defects, and i
 </p>
 
 ### 🛠️ Tools & Technologies
+
+#### Testing Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,selenium,jmeter,jira" />
+  <img src="https://cdn.simpleicons.org/dbeaver/382923" height="48" />
+</p>
+
+#### Programming & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql" />
+</p>
+
+#### Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 **Testing Tools:**
 - Postman & Newman
