@@ -2,7 +2,7 @@
 # Hi, I'm Rukhsana Sultana Ritu👋
 
 <h3 align="center">
-            Software QA Engineer
+            Software QA Engineer<br>
   Manual Testing | API Testing | Test Automation
 </h3>
 
