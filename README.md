@@ -29,6 +29,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/PERFORMANCE%20TESTING-8A2BE2?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 </p>
+---
 
 ### 🛠️ Testing & QA Tools
 
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/DBEAVER-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </p>
+---
 
 ### 💻 Programming & Databases
 
@@ -52,6 +54,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
+---
 
 ### 🌐 Web Development
 
@@ -61,18 +64,6 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
-### 🚀 Skills & Expertise
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Testing-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Testing-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Testing-3498DB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance%20Testing-C0392B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20Testing-27AE60?style=for-the-badge" />
-</p>
-
 ---
 
 ### 🎯 Career Goals
@@ -82,7 +73,6 @@
 - Explore advanced API and performance testing.
 - Contribute to real-world software quality improvement projects.
 ---
-
 ### 🤝 Connect With Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sultana-ritu/)
