@@ -2,7 +2,7 @@
 # Hi, I'm Rukhsana Sultana Ritu👋
 
 <h3 align="center">
-  💻 Software Quality Assurance (SQA) Engineer
+   Software Quality Assurance Engineer
 </h3>
 <p align="center">
   Manual Testing | API Testing | Database Testing | Web & Mobile Testing | Performance Testing
