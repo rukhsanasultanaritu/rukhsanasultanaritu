@@ -23,11 +23,8 @@ Software Testing
 
 <p align="left">
   <img src="https://img.shields.io/badge/MANUAL%20TESTING-FF5733?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/AUTOMATION%20TESTING-087CC1?style=for-the-badge&logo=selenium&logoColor=white" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/API%20TESTING-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/PERFORMANCE%20TESTING-8A2BE2?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 </p>
 
