@@ -2,9 +2,11 @@
 # Hi, I'm Rukhsana Sultana Ritu👋
 
 <h3 align="center">
-             Software QA Engineer<br>
-  Manual Testing | API Testing | Database Testing | Web & Mobile Application Testing | Performance Testing.
+  💻 Software Quality Assurance (SQA) Engineer
 </h3>
+<p align="center">
+  Manual Testing | API Testing | Database Testing | Web & Mobile Testing | Performance Testing
+</p>
 
 ## About Me
 
