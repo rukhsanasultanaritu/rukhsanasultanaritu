@@ -71,7 +71,3 @@ I enjoy analyzing requirements, designing test cases, identifying defects, and i
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sultana-ritu/)
 - 🐙 GitHub: [Explore my repositories](https://github.com/)
-
-📩 Open to learning opportunities, collaboration, and Software QA Engineer opportunities.
-
-**"Quality is never an accident; it is always the result of intelligent effort."**
