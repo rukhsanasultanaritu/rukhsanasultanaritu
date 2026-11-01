@@ -70,6 +70,7 @@
     <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
     <br/>Java
   </a>
+  
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
