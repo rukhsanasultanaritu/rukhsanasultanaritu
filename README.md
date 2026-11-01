@@ -53,8 +53,6 @@
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
@@ -80,3 +78,17 @@
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sultana-ritu/)
 - 🐙 GitHub: [Explore my repositories](https://github.com/)
+
+ ### 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:sultanaritu673@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sultana-ritu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rukhsanasultanaritu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
