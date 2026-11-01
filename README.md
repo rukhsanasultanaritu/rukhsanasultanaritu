@@ -70,7 +70,7 @@
  ### 🤝 Connect With Me
 
 <p align="left">
- <a href="mailto:sultanaritu673@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sultanaritu673@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/sultana-ritu/">
