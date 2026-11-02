@@ -46,6 +46,16 @@ Software Testing
 
 ---
 
+### 📚 Documentation & Diagramming Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/XMIND-FF9900?style=for-the-badge&logo=xmind&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRAW.IO-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERASER.IO-6366F1?style=for-the-badge&logoColor=white" />
+</p>
+---
+
 ### 💻 Programming & Databases
 
 <p align="left">
