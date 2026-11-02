@@ -16,7 +16,6 @@
 - 🧪 Experienced in Manual, API, Database Testing.
 - 🤖 Interested in Test Automation using Selenium with Java.
 - 🚀 Always eager to learn and improve software quality.
-- 🤝 Open to Software QA Engineer opportunities and collaboration.
 
 ---
 ### 🚀 Skills & Expertise
